@@ -44,8 +44,4 @@ body {
     [center-end] minmax(6rem, 1fr)
     [full-end]; // 1140px / 8 = 140px = 14rem
 
-  & > * {
-    padding: 40px;
-    font-size: 3rem;
-  }
 }
