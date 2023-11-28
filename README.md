@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/Liufat/udemy-nexter/50a9747260bace9793a491e6292470fa4e6c42d3/%E9%A0%81%E9%9D%A2.jpeg?token=A2R6JXB7FRTNEUILJRAYHU3FL34QC)
+![image](https://raw.githubusercontent.com/Liufat/udemy-nexter/main/%E9%A0%81%E9%9D%A2.jpeg?token=GHSAT0AAAAAACKQX6YFRMRVVAVGO4WJBYCOZLFLN7Q)
 # udemy-nexter
 由html與SCSS架構的購屋網站
 
